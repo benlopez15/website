@@ -421,6 +421,22 @@ article .icon {
   height: 2.5rem;
 }
 
+/* FOOTER IMAGE SECTION */
+
+#footer_image {
+  display: flex;
+  justify-content: center;
+  gap: 0rem;
+  height: 0vh;
+}
+
+.section__pic-container {
+  display: flex;
+  height: 400px;
+  width: 400px;
+  margin: auto 0;
+}
+
 /* FOOTER SECTION */
 
 footer {
